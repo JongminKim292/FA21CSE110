@@ -19,7 +19,7 @@ int main()
 
 Best search engine [Google](http://google.com).
 
-![Hello!](/assets/images/myface.jpg)
+![Hello!](/myface.jpg)
 
 My family member
 - Father
