@@ -39,5 +39,5 @@ Did you do today?
 - [ ] Take a walk
 - [ ] Stand often
 
-First Read Me ![README_section_link](https://github.com/JongminKim292/FA21CSE110#fa21cse110)
+First Read Me [README_section_link](https://github.com/JongminKim292/FA21CSE110#fa21cse110)
 
