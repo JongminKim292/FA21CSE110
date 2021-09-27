@@ -3,7 +3,7 @@
 **2021 _Fall_ CSE 110**
 
 Hello! I'm Jongmin
-![Hello!](/myface.jpg)
+![relative link](/myface.jpg)
 
 *Start Early, Start Often*
 
@@ -41,5 +41,5 @@ Did you do today?
 
 Hello again?
 
-![HelloAgain!](/https://github.com/JongminKim292/FA21CSE110/blob/main/myface.jpg)
+![section link](https://github.com/JongminKim292/FA21CSE110/blob/main/index.md#jongmin-kim)
 
