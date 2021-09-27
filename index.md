@@ -2,6 +2,9 @@
 
 **2021 _Fall_ CSE 110**
 
+Hello! I'm Jongmin
+![Hello!](/myface.jpg)
+
 *Start Early, Start Often*
 
 > UCSD CSE Department
@@ -18,8 +21,6 @@ int main()
 ```
 
 Best search engine [Google](http://google.com).
-
-![Hello!](/myface.jpg)
 
 My family member
 - Father
